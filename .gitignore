@@ -1,0 +1,10 @@
+# Python
+__pycache__
+
+# Env
+*venv
+.env
+
+# Build
+*.egg-info
+build
